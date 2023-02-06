@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Joaquin Peñuela Parra. I am a colombian Physicist with interest in areas such as Condensed Matter (Theoretical and Experimental), Phenomenology Particle Physics, Mathematics, and Computer Science. Looking forward to pursuing a graduate degree in Physics, Condensed Matter, Materials Science, or Theoretical Physics.
+My name is Joaquin Peñuela Parra. I am a colombian Physicist with interest in areas such as Condensed Matter (Theoretical and Experimental), Phenomenology Particle Physics, Mathematics, and Computer Science.
 
 You cand find my CV and other information about me in my personal website: [https://sites.google.com/view/jpenuela](https://sites.google.com/view/jpenuela).
 
