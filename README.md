@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Joaquin Peñuela Parra. I am a colombian Physicist with interest in areas such as Materials Science, Condensed Matter (Theoretical and Experimental), Phenomenology Particle Physics, Mathematics, and Computer Science. I am currently doing a Ph.D. in Materials Science and Engineering at the University of Pittsburgh.
+My name is Joaquin Peñuela Parra. I am a colombian Physicist graduated from Universidad de los Andes (Uniandes) with experience in areas such as Condensed Matter (Theoretical and Experimental), Phenomenology Particle Physics, Mathematics, and Computer Science. I am currently doing a Ph.D. in Materials Science and Engineering (MSE) in the group of Dr. Juan José Mendoza Arenas at the Department of Mechanical Engineering and Materials Science of the University of Pittsburgh (Pitt). In this group we use tensor networks to investigate quantum materials, quantum computing, quantum transport and fluid turbulence.
 
 You cand find my CV and other information about me in my personal website: [https://sites.google.com/view/jpenuela](https://sites.google.com/view/jpenuela).
 
