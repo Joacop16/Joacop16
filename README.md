@@ -6,6 +6,16 @@ I am currently doing a Ph.D. in Materials Science & Engineering in the group of 
 
 You cand find my CV and other information about me in my personal website: [https://sites.google.com/view/jpenuela](https://sites.google.com/view/jpenuela).
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=julia, python" />
+</p>
+
+<hr>
+
 <!--
 **Joacop16/Joacop16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
