@@ -22,9 +22,9 @@ You cand find my CV and other information about me in my personal website: [http
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Joacop16&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Joacop16's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?user=Joacop16&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Joacop16's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Joacop16&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Joacop16's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Joacop16&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Joacop16's Most Used Languages" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?user=Joacop16&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Joacop16's Most Used Languages" />
 </div>
 
 <hr>
