@@ -11,7 +11,7 @@ You cand find my CV and other information about me in my personal website: [http
 <br>
 
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=julia,python,sklearn,matlab,bash,linux,windows,vscode,anaconda,aws," />
+      Languages and Tools <img src="https://skillicons.dev/icons?i=julia,python,sklearn,matlab,bash,linux,windows,vscode,anaconda,aws," />
 </p>
 
 <hr>
