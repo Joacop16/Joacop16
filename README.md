@@ -1,4 +1,4 @@
-### Hello there 👋
+## Hello there 👋
 
 My name is Joaquín Peñuela-Parra. I am a colombian Physicist graduated from Universidad de los Andes (Uniandes) with experience in areas such as Theoretical Condensed Matter, Phenomenology Particle Physics, Mathematics, and Computer Science. 
 
@@ -8,10 +8,13 @@ You cand find my CV and other information about me in my personal website: [http
 
 ## 🛠️ Languages and Tools: 
 
+
 <br>
+
 <p align="center">
-</p>
       <img src="https://skillicons.dev/icons?i=julia,python,sklearn,matlab,bash,linux,windows,vscode,anaconda,aws," />
+</p>
+
 <hr>
 
 <!--
