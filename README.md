@@ -6,4 +6,8 @@ I am currently doing a Ph.D. in Materials Science & Engineering in the group of 
 
 You cand find my CV and other information about me in my personal website: [https://sites.google.com/view/jpenuela](https://sites.google.com/view/jpenuela).
 
-![sd](All_Icons.svg)
+## 🛠️ Languages and Tools
+
+<p align="center">
+![ ](All_Icons.svg)
+</p>
