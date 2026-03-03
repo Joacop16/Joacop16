@@ -9,5 +9,5 @@ You cand find my CV and other information about me in my personal website: [http
 ## 🛠️ Languages and Tools
 
 <p align="center">
-![ ](All_Icons.svg)
+![](All_Icons.svg)
 </p>
