@@ -8,7 +8,7 @@ You cand find my CV and other information about me in my personal website: [http
 
 ## 🛠️ Languages and Tools
 
-![sd](All_Icons.svg)
+![](All_Icons.svg)
 
 
 <p align="center">
